@@ -1,0 +1,23 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "Вычислитель отличий",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shuhratt/frontend-project-lvl2.git"
+  },
+  "author": "Shuhrat <shuh47@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shuhratt/frontend-project-lvl2/issues"
+  },
+  "homepage": "https://github.com/Shuhratt/frontend-project-lvl2#readme",
+  "dependencies": {
+    "commander": "^7.0.0"
+  }
+}
